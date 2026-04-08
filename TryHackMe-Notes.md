@@ -111,4 +111,4 @@
 
 > Hacker system ko explore karke hidden pages aur weaknesses find karta hai aur unhe use karta hai.
 
-Screenshot 2026-04-08 164130.png
+![TryHackMe](Screenshot%202026-04-08%20164130.png)
