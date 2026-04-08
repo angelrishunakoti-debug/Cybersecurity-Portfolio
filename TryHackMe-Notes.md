@@ -206,4 +206,4 @@ Finally, you act to **contain and remove the threat**.
 
 This is the **defender’s mindset**: understand what you protect, watch carefully, identify threats, and act effectively
 
-[TryHackMe](Screenshot 2026-04-09 002328.png).
+[TryHackMe](Screenshot%202026-04-09%002328.png).
