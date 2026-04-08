@@ -124,6 +124,11 @@
 
 
 
+
+
+
+
+
 # **Defensive Security – FakeBank Scenario**
 
 **Definition:**
@@ -199,4 +204,6 @@ Finally, you act to **contain and remove the threat**.
 
 **Think → Detect → Identify → Stop**
 
-This is the **defender’s mindset**: understand what you protect, watch carefully, identify threats, and act effectively.
+This is the **defender’s mindset**: understand what you protect, watch carefully, identify threats, and act effectively
+
+[TryHackMe](Screenshot 2026-04-09 002328.png).
