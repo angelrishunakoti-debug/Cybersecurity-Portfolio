@@ -111,4 +111,4 @@
 
 > Hacker system ko explore karke hidden pages aur weaknesses find karta hai aur unhe use karta hai.
 
-![Screenshot](lab.png)
+Screenshot 2026-04-08 164130.png
