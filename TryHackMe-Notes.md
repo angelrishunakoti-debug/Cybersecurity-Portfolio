@@ -112,3 +112,91 @@
 > Hacker system ko explore karke hidden pages aur weaknesses find karta hai aur unhe use karta hai.
 
 ![TryHackMe](Screenshot%202026-04-08%20164130.png)
+
+
+
+
+
+
+
+
+
+
+
+
+# **Defensive Security – FakeBank Scenario**
+
+**Definition:**
+Defensive security is all about **protecting systems, networks, and data** from attacks. Unlike hackers, you are the defender — your job is to **prevent, detect, and respond** to threats.
+
+---
+
+## **Step 1: Think Like a Defender**
+
+Before you act, you need to **understand the environment**.
+
+* **Goal:** Know what you are protecting and what could go wrong.
+* **How:**
+
+  1. Identify FakeBank’s valuable assets — customer accounts, money, servers, sensitive data.
+  2. Think of possible threats — hackers, malware, phishing, insider threats.
+  3. Plan how to detect suspicious activity — what signs would show an attack is happening?
+
+**Why it matters:** If you understand your assets and threats first, you can **react faster and smarter**.
+
+---
+
+## **Step 2: Detect Suspicious Activity**
+
+Now that you know what to protect, you watch for **warning signs**.
+
+* **Goal:** Find unusual behavior early.
+* **What to watch:**
+
+  * Login issues: failed attempts, logins from unexpected locations.
+  * Network activity: large downloads or unknown connections.
+  * System behavior: strange processes, sudden spikes in CPU usage.
+* **How:** Use logs, alerts, and monitoring tools to track activity.
+
+**Why it matters:** Detecting a threat early **prevents damage** and gives you time to respond.
+
+---
+
+## **Step 3: Identify the Attack**
+
+Once you spot something unusual, you need to **figure out what kind of attack it is**.
+
+* **Goal:** Understand the attack to respond correctly.
+* **Common attacks:**
+
+  * **Phishing:** Fake emails or messages to steal passwords.
+  * **Malware:** Viruses or ransomware infecting devices.
+  * **DDoS:** Overloading servers to crash them.
+  * **Insider threat:** Someone inside using access wrongly.
+* **How:** Look at evidence from Step 2 — patterns in logs, network, or system behavior — and match them to attack types.
+
+**Why it matters:** Different attacks need different responses. Identifying it correctly **avoids mistakes**.
+
+---
+
+## **Step 4: Stop the Attack**
+
+Finally, you act to **contain and remove the threat**.
+
+* **Goal:** Protect FakeBank and prevent future attacks.
+* **Actions:**
+
+  1. **Contain:** Block suspicious IPs or accounts, isolate infected devices.
+  2. **Eradicate:** Remove malware, stop malicious activity.
+  3. **Recover:** Restore systems to safe state.
+  4. **Improve:** Patch vulnerabilities, update defenses, and document the incident.
+
+**Why it matters:** Stopping the attack **safeguards assets** and strengthens security for the future.
+
+---
+
+### **Summary Flow:**
+
+**Think → Detect → Identify → Stop**
+
+This is the **defender’s mindset**: understand what you protect, watch carefully, identify threats, and act effectively.
