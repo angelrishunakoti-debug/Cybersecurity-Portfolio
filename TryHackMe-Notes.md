@@ -111,7 +111,7 @@
 
 > Hacker system ko explore karke hidden pages aur weaknesses find karta hai aur unhe use karta hai.
 
-![TryHackMe](Screenshot%202026-04-08%20164130.png)
+![TryHackMe]![Screenshot 1](Screenshot%202026-04-08%20164130.png)
 
 
 
@@ -207,4 +207,4 @@ Finally, you act to **contain and remove the threat**.
 This is the **defender’s mindset**: understand what you protect, watch carefully, identify threats, and act effectively
 Screenshot 2026-04-09_002328.png
 
-[TryHackMe](Screenshot%202026-04-09%002328.png).
+[TryHackMe]![Screenshot 2](Screenshot%202026-04-09%002328.png).
