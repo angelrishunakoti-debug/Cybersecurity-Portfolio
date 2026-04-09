@@ -1,5 +1,8 @@
+<h1><b>INTRODUCTION TO CYBER SECURITY</b></h1>
 
-# 🧠 **Offensive Security Intro – Full Notes**
+
+
+(Offensive Security )
 
 
 ## 🔹 **1. Think Like a Hacker**
@@ -111,7 +114,6 @@
 
 > Hacker system ko explore karke hidden pages aur weaknesses find karta hai aur unhe use karta hai.
 
-![TryHackMe]![Screenshot 1](Screenshot%202026-04-08%20164130.png)
 
 
 
@@ -128,8 +130,7 @@
 
 
 
-
-# **Defensive Security – FakeBank Scenario**
+(Defensive Security – FakeBank Scenario)
 
 **Definition:**
 Defensive security is all about **protecting systems, networks, and data** from attacks. Unlike hackers, you are the defender — your job is to **prevent, detect, and respond** to threats.
@@ -207,4 +208,3 @@ Finally, you act to **contain and remove the threat**.
 This is the **defender’s mindset**: understand what you protect, watch carefully, identify threats, and act effectively
 Screenshot 2026-04-09_002328.png
 
-[TryHackMe]![Screenshot 2](Screenshot%202026-04-09%002328.png).
