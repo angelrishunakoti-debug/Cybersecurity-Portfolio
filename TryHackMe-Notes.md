@@ -2,7 +2,7 @@
 
 
 
-(#***Offensive Security*** )
+## 🔴 **Offensive Security**
 
 
 ## 🔹 **1. Think Like a Hacker**
@@ -130,7 +130,7 @@
 
 
 
-(#***Defensive Security – FakeBank Scenario****)
+## 🔴 **defensive Security**
 
 **Definition:**
 Defensive security is all about **protecting systems, networks, and data** from attacks. Unlike hackers, you are the defender — your job is to **prevent, detect, and respond** to threats.
